@@ -1,0 +1,11 @@
+<resources>
+    <string name="form"><b>Registration </b></string>
+    <string name="welcome">Welcome to adventure learning club!</string>
+    <string name="name">Username</string>
+    <string name="pass">Password</string>
+    <string name="stu_id">Student ID </string>
+    <string name="policy">I have read Privacy Policy</string>
+    <string name="phone">Phone</string>
+    <string name="signup">Sign Up</string>
+    <string name="app_name">Registration Form</string>
+</resources>
